@@ -1,5 +1,5 @@
 # LLM-systems-lab
-# Date 11th Nov, 2025
+# Date 13th Nov, 2025
 This is a repository of how I think about the "LLM Stuff" in 11 different layers. It contains practical LLM systems portfolio – experiments, code, and notes across 11 layers (transformers, RAG, agents, evals) from a product manager’s perspective.
 
 ## **Layer 1 – Hardware & Infra (the bottom of the stack)**
